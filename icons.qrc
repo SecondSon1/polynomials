@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/:/Polynomials/Ok.bmp">
+        <file>static/success.png</file>
+    </qresource>
+    <qresource prefix="/:/Polynomials/Error.bmp">
+        <file>static/error.png</file>
+    </qresource>
+</RCC>
